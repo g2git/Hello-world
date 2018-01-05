@@ -1,0 +1,17 @@
+body {
+         color: black;
+         font-family: Arial;
+}
+
+.quickaddForm{
+    text-align:center
+}
+
+.searchBlock{
+    background-color: yellow;
+}
+
+button {
+    background-color: #43a09d;
+    color: white;
+}
